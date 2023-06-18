@@ -19,7 +19,7 @@ Summary
 2. I made an app icon from the app icon generator website.
 3. I have created a login screen, signup screen or reset password screen.
 4. Users can login or signup with email and password And the user can also reset the password via email.
-5. Create a home screen where you can add todo, delete todo and mark todo and manage accounts.
+5. Create a home screen where you can add todo, delete todo, mark todo, reload the dodo nd manage accounts.
 6. Users can update the password in the managed account and delete the user, logout and go back to the home screen.
 7. Please check your email when signing up for a verified account.
 8. I have more work in the app, I will complete it soon and upload the updated one.
