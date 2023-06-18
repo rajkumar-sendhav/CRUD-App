@@ -15,11 +15,11 @@ GitHub CRUD app link 👉
 
 Summary
 - CRUD App project login, sign up, backend with Firebase  
-1. I frist created a CRUD App project in React Native. "npx react-native@latest init CRUD"
-2. I made an app icon from app icon generator website.
-3. I have created login screen, signup screen or reset password screen.
-4. User can login or signup with email and password And the user can also reset the password via email.
+1. I first created a CRUD App project in React Native. "npx react-native@latest init CRUD"
+2. I made an app icon from the app icon generator website.
+3. I have created a login screen, signup screen or reset password screen.
+4. Users can login or signup with email and password And the user can also reset the password via email.
 5. Create a home screen where you can add todo, delete todo and mark todo and manage accounts.
-6. User Can update password in manage account and delete user, logout and go back to home screen.
-7. Please cheak your email when sign up for verify account.
+6. Users can update the password in the managed account and delete the user, logout and go back to the home screen.
+7. Please check your email when signing up for a verified account.
 8. I have more work in the app, I will complete it soon and upload the updated one.
