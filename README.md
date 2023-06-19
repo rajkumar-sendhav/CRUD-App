@@ -7,7 +7,6 @@ GitHub CRUD app link 👉
 - 👋 Hi, I’m @rajkumar-sendhav
 - 👀 I’m interested in React Native 
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on React Native
 - 📫 rajkumarsendhav82@gmail.com
 - 📞 9098287150
 - 🔗 https://www.linkedin.com/in/rajkumar-sendhav/
